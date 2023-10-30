@@ -1,5 +1,5 @@
 Hello world!
 12345
-good bye
-another line from user1
+good bye 
+Line from user2
 Line from user1
